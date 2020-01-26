@@ -1,10 +1,10 @@
 [
 null,
 {"id":1,"expanded":true,"name":"前言","order":1,"parentId":0,"scrollX":609,"scrollY":420.5},
-{"id":2,"expanded":false,"name":"城堡 3F","order":4,"parentId":1,"scrollX":794,"scrollY":1027.5},
-{"id":3,"expanded":false,"name":"普通小镇","order":2,"parentId":1,"scrollX":1062.5454545454545,"scrollY":916.3636363636364},
-{"id":4,"expanded":false,"name":"前言2","order":3,"parentId":1,"scrollX":762.5454545454546,"scrollY":485.4545454545455},
-{"id":5,"expanded":false,"name":"城堡","order":5,"parentId":1,"scrollX":794,"scrollY":1987.5},
-{"id":6,"expanded":true,"name":"皇城","order":6,"parentId":0,"scrollX":2042,"scrollY":3475.5},
-{"id":7,"expanded":false,"name":"世界地图","order":7,"parentId":0,"scrollX":1827,"scrollY":1261.5}
+{"id":2,"expanded":false,"name":"城堡 3F","order":4,"parentId":1,"scrollX":1166.6666666666667,"scrollY":743.3333333333334},
+{"id":3,"expanded":false,"name":"普通小镇","order":2,"parentId":1,"scrollX":1118.6666666666667,"scrollY":1250},
+{"id":4,"expanded":false,"name":"前言2","order":3,"parentId":1,"scrollX":812,"scrollY":560.6666666666666},
+{"id":5,"expanded":false,"name":"城堡","order":5,"parentId":1,"scrollX":1262.6666666666667,"scrollY":1850},
+{"id":6,"expanded":true,"name":"皇城","order":6,"parentId":0,"scrollX":801.3333333333334,"scrollY":1291.3333333333333},
+{"id":7,"expanded":false,"name":"世界地图","order":7,"parentId":0,"scrollX":1578.6666666666667,"scrollY":1250}
 ]
