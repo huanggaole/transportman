@@ -1,15 +1,16 @@
 [
 null,
-{"id":1,"expanded":true,"name":"前言","order":1,"parentId":0,"scrollX":812,"scrollY":560.6666666666666},
+{"id":1,"expanded":true,"name":"前言","order":1,"parentId":0,"scrollX":832,"scrollY":640},
 {"id":2,"expanded":false,"name":"城堡 3F","order":4,"parentId":1,"scrollX":1118.6666666666667,"scrollY":890},
-{"id":3,"expanded":false,"name":"普通小镇","order":2,"parentId":1,"scrollX":1118.6666666666667,"scrollY":912.6666666666666},
-{"id":4,"expanded":false,"name":"前言2","order":3,"parentId":1,"scrollX":812,"scrollY":560.6666666666666},
-{"id":5,"expanded":false,"name":"城堡","order":5,"parentId":1,"scrollX":1248,"scrollY":1342},
-{"id":6,"expanded":true,"name":"皇城","order":6,"parentId":0,"scrollX":1785.3333333333333,"scrollY":3000.6666666666665},
-{"id":7,"expanded":true,"name":"世界地图","order":7,"parentId":0,"scrollX":1598.6666666666667,"scrollY":951.3333333333334},
-{"id":8,"expanded":false,"name":"绿洲","order":8,"parentId":7,"scrollX":801.3333333333334,"scrollY":815.3333333333334},
-{"id":9,"expanded":true,"name":"荒凉峡谷-1","order":9,"parentId":0,"scrollX":3024,"scrollY":1056},
-{"id":10,"expanded":false,"name":"荒凉峡谷-2","order":10,"parentId":9,"scrollX":830.6666666666666,"scrollY":550},
-{"id":11,"expanded":false,"name":"荒凉峡谷-2","order":11,"parentId":9,"scrollX":1104,"scrollY":854},
-{"id":12,"expanded":false,"name":"石洞","order":12,"parentId":9,"scrollX":1104,"scrollY":800.6666666666666}
+{"id":3,"expanded":false,"name":"普通小镇","order":2,"parentId":1,"scrollX":1120.6666666666667,"scrollY":1376},
+{"id":4,"expanded":false,"name":"前言2","order":3,"parentId":1,"scrollX":799.3333333333334,"scrollY":554.6666666666666},
+{"id":5,"expanded":false,"name":"城堡","order":5,"parentId":1,"scrollX":1248.6666666666667,"scrollY":1342.6666666666667},
+{"id":6,"expanded":true,"name":"皇城","order":6,"parentId":0,"scrollX":1199,"scrollY":946},
+{"id":7,"expanded":true,"name":"世界地图","order":7,"parentId":0,"scrollX":1032,"scrollY":1516},
+{"id":8,"expanded":false,"name":"绿洲","order":8,"parentId":7,"scrollX":816.3636363636364,"scrollY":640},
+{"id":9,"expanded":true,"name":"荒凉峡谷-1","order":9,"parentId":0,"scrollX":1584,"scrollY":1056},
+{"id":10,"expanded":false,"name":"荒凉峡谷-2","order":10,"parentId":9,"scrollX":1088,"scrollY":640},
+{"id":11,"expanded":false,"name":"荒凉峡谷-2","order":11,"parentId":9,"scrollX":1118.6666666666667,"scrollY":551.3333333333334},
+{"id":12,"expanded":false,"name":"荒凉山谷北侧","order":12,"parentId":9,"scrollX":1215,"scrollY":832},
+{"id":13,"expanded":false,"name":"游牧民营地","order":13,"parentId":0,"scrollX":1199,"scrollY":832}
 ]
